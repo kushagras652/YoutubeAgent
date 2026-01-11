@@ -1,0 +1,11 @@
+youtube-transcript-api
+pytube
+yt-dlp
+openai
+numpy
+scikit-learn
+langchain
+langchain-openai
+faiss-cpu
+langchain_community
+python-dotenv
