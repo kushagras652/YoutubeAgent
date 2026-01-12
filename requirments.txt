@@ -1,5 +1,4 @@
 youtube-transcript-api
-pytube
 yt-dlp
 openai
 numpy
@@ -10,3 +9,4 @@ faiss-cpu
 langchain_community
 python-dotenv
 streamlit
+pytube
