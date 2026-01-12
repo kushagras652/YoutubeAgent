@@ -9,4 +9,3 @@ faiss-cpu
 langchain_community
 python-dotenv
 streamlit
-pytube

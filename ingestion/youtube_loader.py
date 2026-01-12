@@ -1,6 +1,6 @@
 # this import is use for parsing url,urlparse breaks URL into components(scheme,hostname....) and parse_qs converts query string(key=value & key2=value2) into dictionary
 from urllib.parse import urlparse,parse_qs
-from pytube import YouTube
+# from pytube import YouTube
 from youtube_transcript_api import YouTubeTranscriptApi,TranscriptsDisabled,NoTranscriptFound,CouldNotRetrieveTranscript
 import yt_dlp
 import xml.etree.ElementTree as ET
